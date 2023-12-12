@@ -26,7 +26,7 @@ main{
   background-color: antiquewhite;
 }
 
-/*Espacio para el header*/
+
 .head {
   display: flex;
   justify-content: space-between;
