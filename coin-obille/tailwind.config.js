@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{html,ts}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'valorant': ['valorant', 'sans-serif'],
+      },
+    },
   },
+  variants: {},
   plugins: [],
 }
